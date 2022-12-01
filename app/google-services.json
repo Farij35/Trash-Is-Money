@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "274246281515",
+    "firebase_url": "https://trashismoney-f0d57-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "trashismoney-f0d57",
+    "storage_bucket": "trashismoney-f0d57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274246281515:android:024d5ba29e7150fb74bd6e",
+        "android_client_info": {
+          "package_name": "com.capstone.trashismoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274246281515-8vd5p4jgluojic6872hpg4e1t34gb5nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_b7YMslMa8y7vxXdOPTiJ-75jtYR_5qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274246281515-8vd5p4jgluojic6872hpg4e1t34gb5nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274246281515:android:817f908b3e9bce7c74bd6e",
+        "android_client_info": {
+          "package_name": "com.ritorushiny.trashismoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274246281515-8vd5p4jgluojic6872hpg4e1t34gb5nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_b7YMslMa8y7vxXdOPTiJ-75jtYR_5qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274246281515-8vd5p4jgluojic6872hpg4e1t34gb5nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
